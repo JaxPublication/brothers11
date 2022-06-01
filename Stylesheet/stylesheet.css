@@ -1,0 +1,40 @@
+body
+{
+    background-image: url("https://funroundup.com/wp-content/uploads/2016/04/Actress-Nayantara-Beautiful-HD-Wallpaper-Stills-2-1024x768.jpg");
+    background-position: right;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title
+{
+    text-align: center;
+    background-color: maroon;
+    color: white;
+    padding: 3px;
+    opacity: 0.8;
+    font-size: 200%;   
+}
+
+body {
+    margin: 1%;
+    padding: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  a{
+      margin: 2%;
+      display: block;
+      color:maroon;
+      padding: 3px;
+      font-size: 17px;
+      background-color:goldenrod;
+  }
+
+  li
+  {
+      color: red;
+  }
+
+  
